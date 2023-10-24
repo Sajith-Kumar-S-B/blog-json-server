@@ -1,12 +1,60 @@
 {
   "blogs": [
     {
-      "title": "New Blog updated",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1697977110/aemld6nljwc09ctb2v00.jpg",
-      "category": "Travel",
-      "date": "10/22/2023, 05:48:35 PM",
+      "title": "5 Steps to Detox Your Mind",
+      "description": "Blogging gives your site a voice, so let your business’ personality shine through. Are you a creative agency? Go wild with original blog posts about recent projects, cool inspirational ideas, or what your company culture is like. Add images, and videos to really spice it up, and pepper it with slang to keep readers interested. Are you a programmer? Stay on the more technical side by offering weekly tips, tricks, and hacks that show off your knowledge of the industry. No matter what type of business you have, one thing is for sure - blogging gives your business the opportunity to be heard in a way in a different and unconventional way.  ",
+      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1698144216/fil2m8kyw7f7v6y6l1so.webp",
+      "category": "Fitness",
+      "date": "10/24/2023, 04:13:47 PM",
       "id": 1
+    },
+    {
+      "title": "Our Picks for QB of the Year",
+      "description": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. \nBlogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1698144355/zrlmlbhg5s8xm3ailirs.webp",
+      "category": "Sports",
+      "date": "10/24/2023, 04:16:05 PM",
+      "id": 2
+    },
+    {
+      "title": "A Full Course Italian Meal",
+      "description": "You’ll be posting loads of engaging content, so be sure to keep your blog organized with Categories that also allow readers to explore more of what interests them. Each category of your blog has its own page that’s fully customizable. Add a catchy title, a brief description and a beautiful image to the category page header to truly make it your own. You can also add tags (#vacation #dream #summer) throughout your posts to reach more people, and help readers search for relevant content. Using hashtags can expand your post reach and help people find the content that matters to them. Go ahead, #hashtag away.",
+      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1698144577/cyqsr4gvhrb9celodhi1.webp",
+      "category": "Food",
+      "date": "10/24/2023, 04:19:51 PM",
+      "id": 3
+    },
+    {
+      "title": "How decluttering changed my life",
+      "description": "Blogging gives your site a voice, so let your business’ personality shine through. Are you a creative agency? Go wild with original blog posts about recent projects, cool inspirational ideas, or what your company culture is like. Add images, and videos to really spice it up, and pepper it with slang to keep readers interested. Are you a programmer? Stay on the more technical side by offering weekly tips, tricks, and hacks that show off your knowledge of the industry. No matter what type of business you have, one thing is for sure - blogging gives your business the opportunity to be heard in a way in a different and unconventional way. ",
+      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1698144722/myvbgshtt6kgzyvvsigw.webp",
+      "category": "Fashion",
+      "date": "10/24/2023, 04:22:14 PM",
+      "id": 4
+    },
+    {
+      "title": "Best Startups Investments of 2035",
+      "description": "This item is connected to a text field in your content collection. Double click what you want to edit and then select \"Change Content\" to open the collection. Want to view and manage all your collections? Click the Content Manager icon on the add panel to your left. In the Content Manager, you can update items, add new fields, create dynamic pages and more.\n\n\n\nYour content collection is already set up with fields and content. Add your own by editing each field, or import CSV files to your content collection. You can create fields for rich content, images, videos and more.\n\n\n\nUse input elements like custom forms and fields to collect info from your site visitors and store it in your Content Collections. Make sure all your elements are Connected to Data, and make sure to Preview your Site to check that everything is connected correctly.",
+      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1698144967/iiycs7k3fm4w1nxij4k1.webp",
+      "category": "Tech",
+      "date": "10/24/2023, 04:26:14 PM",
+      "id": 5
+    },
+    {
+      "title": "Sheer elegance: a fashion spotlight",
+      "description": "You’ll be posting loads of engaging content, so be sure to keep your blog organized with Categories that also allow readers to explore more of what interests them. Each category of your blog has its own page that’s fully customizable. Add a catchy title, a brief description and a beautiful image to the category page header to truly make it your own. You can also add tags (#vacation #dream #summer) throughout your posts to reach more people, and help readers search for relevant content. Using hashtags can expand your post reach and help people find the content that matters to them. Go ahead, #hashtag away.",
+      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1698145956/drnhvxootqtjljehpq0l.webp",
+      "category": "Fashion",
+      "date": "10/24/2023, 04:42:42 PM",
+      "id": 6
+    },
+    {
+      "title": "The Mexico Diary, Day 1: Oaxaca",
+      "description": "Writing a blog is a great way to position yourself as an authority in your field and captivate your readers’ attention. Do you want to improve your site’s SEO ranking? Consider topics that focus on relevant keywords and relate back to your website or business. You can also add hashtags (#vacation #dream #summer) throughout your posts to reach more people, and help visitors search for relevant content. \n\nBlogging gives your site a voice, so let your business’ personality shine through. Choose a great image to feature in your post or add a video for extra engagement. Are you ready to get started? Simply create a new post now.",
+      "image": "http://res.cloudinary.com/duigzjl5o/image/upload/v1698148718/guyug6e9bj4qlryz4bpc.webp",
+      "category": "Travel",
+      "date": "10/24/2023, 05:28:42 PM",
+      "id": 7
     }
   ]
 }
